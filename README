@@ -1,0 +1,9 @@
+# Quick Start
+
+Before installation, please make sure you have installed `brew` and `git`.
+
+1. brew install vim macvim
+2. brew linkapps macvim
+3. git clone git@github.com:zfben/vim.git ~/.vim
+4. ln -s ~/.vim/.vimrc ~/.vimrc
+5. git submodule update
